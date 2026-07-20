@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/blazeblitx/My-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/blazeblitx/My-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0622-design-circular-queue](https://github.com/blazeblitx/My-Leetcode/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/blazeblitx/My-Leetcode/tree/master/0735-asteroid-collision) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/blazeblitx/My-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/blazeblitx/My-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/blazeblitx/My-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
@@ -129,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/blazeblitx/My-Leetcode/tree/master/0622-design-circular-queue) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/blazeblitx/My-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/blazeblitx/My-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/blazeblitx/My-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
