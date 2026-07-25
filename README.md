@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/blazeblitx/My-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/blazeblitx/My-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/blazeblitx/My-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/blazeblitx/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/blazeblitx/My-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/blazeblitx/My-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/blazeblitx/My-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/blazeblitx/My-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/blazeblitx/My-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/blazeblitx/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0622-design-circular-queue](https://github.com/blazeblitx/My-Leetcode/tree/master/0622-design-circular-queue) |
 | [0733-flood-fill](https://github.com/blazeblitx/My-Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/blazeblitx/My-Leetcode/tree/master/0735-asteroid-collision) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/blazeblitx/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/blazeblitx/My-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/blazeblitx/My-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
