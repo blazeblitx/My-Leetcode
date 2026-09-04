@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/blazeblitx/My-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/blazeblitx/My-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/blazeblitx/My-Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/blazeblitx/My-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/blazeblitx/My-Leetcode/tree/master/0414-third-maximum-number) |
 | [0622-design-circular-queue](https://github.com/blazeblitx/My-Leetcode/tree/master/0622-design-circular-queue) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/blazeblitx/My-Leetcode/tree/master/0136-single-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/blazeblitx/My-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
