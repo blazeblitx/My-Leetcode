@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/blazeblitx/My-Leetcode/tree/master/0622-design-circular-queue) |
 | [0733-flood-fill](https://github.com/blazeblitx/My-Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/blazeblitx/My-Leetcode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/blazeblitx/My-Leetcode/tree/master/0867-transpose-matrix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/blazeblitx/My-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/blazeblitx/My-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/blazeblitx/My-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/blazeblitx/My-Leetcode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/blazeblitx/My-Leetcode/tree/master/0867-transpose-matrix) |
 ## Queue
 |  |
 | ------- |
@@ -195,4 +197,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/blazeblitx/My-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/blazeblitx/My-Leetcode/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/blazeblitx/My-Leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
