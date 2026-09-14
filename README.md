@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/blazeblitx/My-Leetcode/tree/master/0022-generate-parentheses) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/blazeblitx/My-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/blazeblitx/My-Leetcode/tree/master/0022-generate-parentheses) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/blazeblitx/My-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -205,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/blazeblitx/My-Leetcode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/blazeblitx/My-Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/blazeblitx/My-Leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/blazeblitx/My-Leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/blazeblitx/My-Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
