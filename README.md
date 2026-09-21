@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/blazeblitx/My-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/blazeblitx/My-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/blazeblitx/My-Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/blazeblitx/My-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/blazeblitx/My-Leetcode/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/blazeblitx/My-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/blazeblitx/My-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/blazeblitx/My-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/blazeblitx/My-Leetcode/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/blazeblitx/My-Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/blazeblitx/My-Leetcode/tree/master/0048-rotate-image) |
+| [0445-add-two-numbers-ii](https://github.com/blazeblitx/My-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/blazeblitx/My-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
